@@ -1,9 +1,9 @@
 # Coragem_Clock
 
 ## Aplicativo relógio com alarme e + 
-## Feito em python
+![Tecnologia](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-### Versão do python:
+### Na versão do python: 3.10
 
 https://www.python.org/downloads/release/python-3100/
 
