@@ -9,4 +9,7 @@ https://www.python.org/downloads/release/python-3100/
 
 # Comandos no CMD:
 
+### pip install --upgrade pip
 ### pip install pygame
+
+#### obs(Mantenha o github em inglês para os comandos não alterarem)
