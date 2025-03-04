@@ -1,6 +1,7 @@
 # Coragem_Clock
 
-## Aplicativo relógio com alarme e + feito em python
+## Aplicativo relógio com alarme e + 
+## Feito em python
 
 ### Versão do python:
 
